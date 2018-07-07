@@ -1,5 +1,6 @@
+
 {
-  "name": "letsgetangular",
+  "name": "restfulapi",
   "version": "1.0.0",
   "description": "Basic server communication",
   "main": "index.js",
